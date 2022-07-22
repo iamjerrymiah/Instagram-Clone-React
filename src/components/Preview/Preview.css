@@ -1,0 +1,8 @@
+.Preview {
+    margin: auto;
+    width: 100%;
+}
+
+.Preview img {
+    max-width: 100%;
+}

@@ -1,0 +1,9 @@
+html, body{
+    height: 100%;
+}
+.Content {
+    text-align: center;
+    margin: auto;
+    height: 100%;
+    background-color: whitesmoke;
+}
